@@ -1,6 +1,5 @@
 python
 portfolio
-badminton
 blockchain
 bounce back
-app design
+master python
